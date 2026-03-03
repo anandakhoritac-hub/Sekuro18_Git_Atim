@@ -1,0 +1,7 @@
+*   489c02e menyelesaikan merge conflict
+|\  
+| * 9330a56 versi 1
+* | 819f4fa versi 2
+|/  
+* 15d84c4 inisiasi github
+* 5a7c367 inisiasi github
